@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+
+# Angular
+.angular/
+dist/
+out-tsc/
+
+# Build files
+coverage/
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+
+# Cache
+.cache/
+
+# Firebase
+.firebase/
+
+# Testing
+test-results/
+playwright-report/
+
+# Misc
+*.tmp
+*.swp
